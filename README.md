@@ -32,10 +32,10 @@ CARGOBOX_ARQUITECTURA/
 │   │   └── mapa de dominio /.pdf 
 │   └── secuencia/
 │       ├── Diagrama de secuencia (incidencia) /.pdf/.drawio 
-│       └── Diagrama de secuencia (principal) //.pdf/.drawio 
+│       └── Diagrama de secuencia (principal) /.pdf/.drawio 
 ├── docs/
-│   ├── ADR/
-│   │   └── ADR /.pdf
+│   ├── ADRS/
+│   │   └── ADRS /.pdf
 │   ├── bitacora ia/
 │   │   └── Bitacora obligatoria de IA /.pdf
 │   ├── informe/
