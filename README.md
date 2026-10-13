@@ -39,12 +39,7 @@ CARGOBOX_ARQUITECTURA/
 │   ├── bitacora ia/
 │   │   └── Bitacora obligatoria de IA /.pdf
 │   ├── informe/
-│   │   └── Actividad_Unidad_3_CLN_Arquitectura /.pdf
+│   │   └── reporte /.pdf
 │   ├── trazabilidad/
 │   │   └── Matriz de trazabilidad /.pdf
-│   └── unidad 2/
-│       ├── BRD /.pdf
-│       ├── BPMN /.pdf
-│       ├── USER STORIES /.pdf
-│       └── GLOSARIO /.pdf
 └── README.md
