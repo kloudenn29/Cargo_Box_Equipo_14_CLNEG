@@ -38,8 +38,8 @@ CARGOBOX_ARQUITECTURA/
 │   │   └── ADRS /.pdf
 │   ├── bitacora ia/
 │   │   └── Bitacora obligatoria de IA /.pdf
-│   ├── informe/
-│   │   └── reporte /.pdf
+│   ├── reporte/
+│   │   └── Actividad_Unidad_3_CLN_ArquitecturaAlumnos /.pdf
 │   ├── trazabilidad/
 │   │   └── Matriz de trazabilidad /.pdf
 └── README.md
