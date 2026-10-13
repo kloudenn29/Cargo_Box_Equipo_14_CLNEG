@@ -31,20 +31,20 @@ CARGOBOX_ARQUITECTURA/
 │   ├── dominio/
 │   │   └── mapa de dominio /.pdf 
 │   └── secuencia/
-│       ├── Diagrama de secuencia (incidencia) /.mmd 
-│       └── Diagrama de secuencia (principal) /.mmd 
+│       ├── Diagrama de secuencia (incidencia) /.pdf/.drawio 
+│       └── Diagrama de secuencia (principal) //.pdf/.drawio 
 ├── docs/
 │   ├── ADR/
-│   │   ├──
+│   │   └── ADR /.pdf
 │   ├── bitacora ia/
-│   │   ├──
+│   │   └── Bitacora obligatoria de IA /.pdf
 │   ├── informe/
-│   │   ├──
+│   │   └── Actividad_Unidad_3_CLN_Arquitectura /.pdf
 │   ├── trazabilidad/
-│   │   ├──
+│   │   └── Matriz de trazabilidad /.pdf
 │   └── unidad 2/
-│       ├── BRD
-│       ├── BPMN
-│       ├── USER STORIES
-│       └── GLOSARIO
+│       ├── BRD /.pdf
+│       ├── BPMN /.pdf
+│       ├── USER STORIES /.pdf
+│       └── GLOSARIO /.pdf
 └── README.md
